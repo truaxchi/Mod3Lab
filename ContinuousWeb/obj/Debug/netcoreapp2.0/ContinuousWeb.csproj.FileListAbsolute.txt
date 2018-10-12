@@ -1,0 +1,11 @@
+D:\AzureSelfPacedCourses\DEV223X-IntroToAzure\AzureAppServiceConfiguration\Mod3Lab\ContinuousWeb\bin\Debug\netcoreapp2.0\ContinuousWeb.deps.json
+D:\AzureSelfPacedCourses\DEV223X-IntroToAzure\AzureAppServiceConfiguration\Mod3Lab\ContinuousWeb\bin\Debug\netcoreapp2.0\ContinuousWeb.runtimeconfig.json
+D:\AzureSelfPacedCourses\DEV223X-IntroToAzure\AzureAppServiceConfiguration\Mod3Lab\ContinuousWeb\bin\Debug\netcoreapp2.0\ContinuousWeb.runtimeconfig.dev.json
+D:\AzureSelfPacedCourses\DEV223X-IntroToAzure\AzureAppServiceConfiguration\Mod3Lab\ContinuousWeb\bin\Debug\netcoreapp2.0\ContinuousWeb.dll
+D:\AzureSelfPacedCourses\DEV223X-IntroToAzure\AzureAppServiceConfiguration\Mod3Lab\ContinuousWeb\bin\Debug\netcoreapp2.0\ContinuousWeb.pdb
+D:\AzureSelfPacedCourses\DEV223X-IntroToAzure\AzureAppServiceConfiguration\Mod3Lab\ContinuousWeb\obj\Debug\netcoreapp2.0\ContinuousWeb.csprojAssemblyReference.cache
+D:\AzureSelfPacedCourses\DEV223X-IntroToAzure\AzureAppServiceConfiguration\Mod3Lab\ContinuousWeb\obj\Debug\netcoreapp2.0\ContinuousWeb.csproj.CoreCompileInputs.cache
+D:\AzureSelfPacedCourses\DEV223X-IntroToAzure\AzureAppServiceConfiguration\Mod3Lab\ContinuousWeb\obj\Debug\netcoreapp2.0\ContinuousWeb.AssemblyInfoInputs.cache
+D:\AzureSelfPacedCourses\DEV223X-IntroToAzure\AzureAppServiceConfiguration\Mod3Lab\ContinuousWeb\obj\Debug\netcoreapp2.0\ContinuousWeb.AssemblyInfo.cs
+D:\AzureSelfPacedCourses\DEV223X-IntroToAzure\AzureAppServiceConfiguration\Mod3Lab\ContinuousWeb\obj\Debug\netcoreapp2.0\ContinuousWeb.dll
+D:\AzureSelfPacedCourses\DEV223X-IntroToAzure\AzureAppServiceConfiguration\Mod3Lab\ContinuousWeb\obj\Debug\netcoreapp2.0\ContinuousWeb.pdb
